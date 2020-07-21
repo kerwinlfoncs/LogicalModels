@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-07-21T23:23:28.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="yJ0qPkRrhl5g3Plb6ZEi" version="13.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-21T23:24:10.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="_jwIt_I9ooH6jS3xIbOT" version="13.4.9" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Legend">
-    <mxGraphModel dx="2707" dy="550" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="742" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1cZQTdq6hkjv82BdzqhY-70" value="Key Entity Types" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=34;horizontalStack=0;verticalAlign=middle;fillColor=#00CCCC;fontSize=14;fontFamily=Verdana;comic=1;gradientDirection=west;swimlaneFillColor=#ffffff;glass=0;shadow=0;sketch=1;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="-1240" y="128" width="1054" height="514" as="geometry">
+          <mxGeometry x="-1600" y="128" width="1054" height="514" as="geometry">
             <mxRectangle x="-100" y="270" width="130" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
